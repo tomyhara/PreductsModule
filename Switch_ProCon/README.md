@@ -8,7 +8,9 @@ Nintendo Switchのスタンドの背面にPro-Conと、BUFFALO製有線LANアダ
 
 <!-- <img src="./img/stl_image.png" width="500"> -->
 
-<!-- <img src="./img/IMG_7607.JPG" width="500"><img src="./img/IMG_7608.JPG" width="500"> -->
+<img src="./img/image_01.JPG" width="500"><img src="./img/image_02.JPG" width="500">
+
+<img src="./img/image_03.JPG" width="500">
 
 ## 使用方法
 
